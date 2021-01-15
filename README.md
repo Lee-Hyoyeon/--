@@ -6,7 +6,7 @@
 
 - best seller
 
-  ![bestseller]()
+  ![bestseller](https://user-images.githubusercontent.com/68915715/104753036-cd8bbf80-579a-11eb-8495-9a74221a5863.PNG)
 
 - magazine
 
